@@ -1,3 +1,13 @@
+//Offsets
+OFFSET_UWorld    = 0x584C170;
+OFFSET_GNames    = 0x5744F80;
+OFFSET_Health    = 0x2538;
+
+
+
+
+
+//Sigs
 GObjects:4C 8B 1D ? ? ? ? 4D 85 C9 \x4C\x8B\x1D\x00\x00\x00\x00\x4D\x85\xC9 xxx????xxx
 GNames:48 8B 05 ? ? ? ? 48 85 C0 75 5F \x48\x8B\x05\x00\x00\x00\x00\x48\x85\xC0\x75\x5F xxx????xxxxx
 GWorld: 48 89 05 ? ? ? ? 48 8B B7 \x48\x89\x05\x00\x00\x00\x00\x48\x8B\xB7 xxx????xxx
